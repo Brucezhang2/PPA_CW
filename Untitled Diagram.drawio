@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T16:37:57.086Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" version="14.4.3" etag="SN_PsZlhtqSYvDpU2H8B" type="github"><diagram id="NuPxoShEqKTGZbRCdkvH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-05T23:29:53.463Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="kBmgfNSnId9VKbD1uQD2" version="14.4.3" type="github">
+  <diagram id="NuPxoShEqKTGZbRCdkvH" name="Page-1">
+    <mxGraphModel dx="898" dy="511" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1qNiBlnkZxesxlHWpWdD-1" value="Case without previous offences(other case: Plagiarism etc)" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="180" y="80" width="410" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="1qNiBlnkZxesxlHWpWdD-2" value="entry/ LAMP interview scheduled, and notice sent / Invitation &#xa;sent to student/ Summary of interview with results recorded/ Outcome &#xa;email sent to student/  &#xa;In case of Misconduct, form sent to student/ Check completion of form and&#xa;notify PS team/ PS team send copy of signed form to student, SCO and &#xa;module leader/&#xa;In case of refer to SCO, go to Previous offence case/&#xa;In case of no case, case  dropped/&#xa;In case of poor acedamic practice, registered/&#xa;Case closed/ &#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;" vertex="1" parent="1qNiBlnkZxesxlHWpWdD-1">
+          <mxGeometry y="30" width="410" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
